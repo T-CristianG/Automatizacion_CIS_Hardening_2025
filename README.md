@@ -1,11 +1,6 @@
 ¿Cómo ejecutar el módulo de Windows?
  1. Abrir PowerShell como Administrador
-Tu código tiene esta validación explícita:
 
-python
-if not is_admin():
-    print("ERROR: Este script debe ejecutarse como Administrador")
-    sys.exit(1)
 Pasos:
 
 Presiona Tecla Windows, escribe PowerShell.
